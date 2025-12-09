@@ -1,4 +1,5 @@
-# SMS Project
+<p align="center">
+  <h1> PYTHON + SQL LOW LEVEL DESIGN</h1>
 
 This repository contains multiple Python projects related to banking, movie management, university systems, and more. Each subdirectory represents a separate application with its own structure and components.
 
@@ -67,3 +68,6 @@ This repository contains multiple Python projects related to banking, movie mana
 4. Commit your changes
 5. Push to your fork
 6. Create a pull request
+
+</p>
+
